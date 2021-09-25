@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.EM{
+  background-color: #09015f;
+  margin: 0 0 40px 0;
+  color: white;
+  height: 150px;
+}
+.header{
+  /* text-align: center; */
+  margin: 0 30px;
+  padding: 30px 20px;
+  align-items: center;
+}
+.apply{
+  align-items: center;
+}
+.apply button{
+  width: 250px;
+}

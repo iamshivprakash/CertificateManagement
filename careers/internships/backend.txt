@@ -1,0 +1,48 @@
+About Spark Studio:
+
+Role: Front-end Developer
+Job type: Full-time Remote opportunity
+
+
+Spark Studio is a pre-series A funded company led by two of the largest funds in the space. Our founding team comprises IIT, IIM, lawyers, teachers having a cumulative of 40+ years of experience in education. We’re building a team that has worked at the best B2C, B2B start-ups in India. This is where some of us come from BYJU’S, Lead School, Swiggy, DailyHunt, Scroll.in, Zynga, Housing and pans functions like product, tech, ux, curriculum.
+
+We’re redefining extracurricular learning for children's (5-15 yrs) with the power of technology. Online education platform to learn and engage in visual and performing arts and develop creativity and confidence in children. Spark Studio offers courses designed by experts with deep experience in the subjects as well as pedagogy, and delivered by high quality teachers, and interactive technology.
+
+
+
+Job Description:
+
+You combine the art of design & the simplicity of programming. Translate UI/UX design wireframes to code that will capture the visual elements of our offering.
+You’ll work directly with Co-founders, Head of Product, UX Lead and Engineering Head at Spark.
+
+Responsibilities
+
+• Develop user-facing features, while building reusable code & libraries for future use
+• Optimise application for maximum speed & scalability
+• Ensure the technical feasibility of UI/UX designs
+• Ensure that all user input is validated before submitting to back-end
+
+Qualifications
+
+• 0-3 Years work experience in Frontend
+• Experience working with libraries / frameworks like ReactJS, AngularJS, KnockoutJS, BackboneJS, DurandalJS etc.
+• Experience with common front-end development tools such as Babel, Webpack, NPM, etc
+• Proficiency with HTML5, CSS3. Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS
+• Proficient understanding of client-side scripting and JavaScript frameworks, including jQuery
+• Good understanding of asynchronous request handling, partial page updates, and AJAX
+• Basic knowledge of image authoring tools, to be able to crop, resize, or perform small adjustments on an image. Familiarity with tools such as as Gimp or Photoshop is a plus.
+• Proficient knowledge of cross-browser compatibility issues & ways to work around them.
+• Proficient understanding of code versioning tool - GIT
+• Good understanding of SEO principles and ensuring that application will adhere to them.
+
+
+Nice to have
+• Experience with frameworks like Flutter, Ionic etc
+• Experience working with LMSs
+• Sense of humour
+
+If you would like to explore new opportunity drop your resumes at shiva@thefinder.co.in
+
+Regards
+Hiring team
+The Finder India
